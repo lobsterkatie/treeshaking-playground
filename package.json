@@ -1,0 +1,9 @@
+{
+  "name": "treeshaking",
+  "version": "1.0.0",
+  "main": "app-index.js",
+  "license": "MIT",
+  "dependencies": {
+    "test-lib": "file:./test-lib"
+  }
+}
